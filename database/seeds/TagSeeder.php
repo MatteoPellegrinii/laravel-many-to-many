@@ -1,6 +1,5 @@
 <?php
 
-use TagSeeder;
 use App\Models\Tag;
 use Illuminate\Database\Seeder;
 
